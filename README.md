@@ -12,5 +12,3 @@ The SPT Protocol is a framework for dynamic, adaptable AI behavior. It models pe
 - Explore the SPT Protocol [here](https://github.com/CroMagnonPlan/SPT?tab=readme-ov-file#about-the-spt-protocol).
 - Join the discussion by opening an issue or submitting a pull request.
 
-## License
-This project is licensed under the MIT License.
